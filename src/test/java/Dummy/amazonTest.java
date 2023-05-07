@@ -21,7 +21,7 @@ public class amazonTest {
 		WebDriver driver=new ChromeDriver(opt);
 		driver.get("https:www.amazon.com");
            
-
+       System.out.println("hi");
 
 	}
 
