@@ -16,5 +16,6 @@ public class Swiggy {
  		WebDriver driver=new ChromeDriver();
  		driver.manage().window().maximize();
  		driver.get("https:www.swiggy.com");
+ 		System.out.println("swiggy");
 	}
 }
